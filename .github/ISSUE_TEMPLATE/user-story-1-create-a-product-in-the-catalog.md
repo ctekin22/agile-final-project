@@ -1,5 +1,5 @@
 ---
-name: User Story-1
+name: User Story-1-create a product in the catalog
 about: Need the ability to create a product in the catalog
 title: ''
 labels: ''
